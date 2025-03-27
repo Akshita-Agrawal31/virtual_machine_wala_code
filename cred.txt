@@ -1,0 +1,9 @@
+IP="10.0.0.2"
+USERNAME="vm1"
+PASSWORD="YWFhc3M="
+K8s_Master="no"
+
+IP="10.0.0.3"
+USERNAME="vm2"
+PASSWORD="YWFhc3M="
+K8s_Master="no"
